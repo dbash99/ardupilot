@@ -107,7 +107,7 @@ float AP_Proximity_RPLidarA2::distance_max() const
     case Model::A1:
         return 8.0f;
     case Model::A2:
-        return 16.0f;
+        return 12.0f;
     case Model::C1:
         return 12.0f;
     case Model::S1:
